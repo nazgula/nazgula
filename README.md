@@ -8,4 +8,4 @@ I design and build well-structured web applications, with a growing focus on AI-
 🎨 Background in UX and product specification  
 
 📫 Contact me via maria.gur.dev@gmail.com  
-🖼️ Check my portfolio https://portfolio-next-phi-mocha.vercel.app/
+🖼️ Check my portfolio https://maria-gurevich.vercel.app/
